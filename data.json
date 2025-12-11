@@ -1,0 +1,15 @@
+[ {
+  "timeStartGame" : 1765460680960,
+  "listPlayerData" : [ {
+    "name" : "Player 1",
+    "nbToken" : 4
+  }, {
+    "name" : "Player 2",
+    "nbToken" : 3
+  } ],
+  "winnerPlayer" : {
+    "name" : "Player 1",
+    "symbol" : "X",
+    "nbToken" : 4
+  }
+} ]

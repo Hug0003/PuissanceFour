@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PuissanceFour/PuissanceFour.iml" filepath="$PROJECT_DIR$/PuissanceFour/PuissanceFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Puissance_quatre.iml" filepath="$PROJECT_DIR$/.idea/Puissance_quatre.iml" />
+    </modules>
+  </component>
+</project>
